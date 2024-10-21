@@ -1,0 +1,13 @@
+menu-items:
+  - location: "1,2"
+    material: GOLD_ORE
+    name: "所持金"
+    command: "/bal"
+  - location: "3,5"
+    material: DIAMOND_SWORD
+    name: "テレポート"
+    command: "/warp"
+  - location: "5,5"
+    material: GOLDEN_APPLE
+    name: "回復"
+    command: "/heal"
